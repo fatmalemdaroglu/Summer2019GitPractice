@@ -5,6 +5,7 @@ black
 yellow
 purple
 navy blue
+orange
 
 
 
