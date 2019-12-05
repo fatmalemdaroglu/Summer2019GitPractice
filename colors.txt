@@ -6,6 +6,6 @@ yellow
 purple
 navy blue
 orange
-
+gold
 
 
