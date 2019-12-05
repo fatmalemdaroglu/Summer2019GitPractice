@@ -7,5 +7,7 @@ purple
 navy blue
 orange
 gold
+Cyber yellow
+
 
 
